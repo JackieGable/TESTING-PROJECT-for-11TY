@@ -17,3 +17,16 @@ This is a basic minimal setup to test if sass is compiling as expected.
 5. The project should build and then open a dev Server at http://localhost:8080/
 
 6. Verify that live reload is working by making some changes to the src/sass/main.scss file and you should see it change immediately in the browser. 
+
+
+### Files not required
+
+Several files have been added for convenience but are not required to run 11ty. If you choose not to delete them, it shouldn't break anything. The files are:
+.editorconfig
+.eleventyignore
+.eslintrc.js
+.htmlhintrc
+
+### What about the _NOTES folder?
+
+I use this folder as a storage space for stuff that I might need but don't want to become part of the project. 
