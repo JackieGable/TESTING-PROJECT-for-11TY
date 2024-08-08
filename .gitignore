@@ -1,0 +1,4 @@
+node_modules
+_NOTES/*.*
+package-lock.json
+public/
